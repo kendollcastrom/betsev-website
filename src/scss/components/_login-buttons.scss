@@ -1,0 +1,41 @@
+.login {
+	display: flex;
+	align-items: center;
+	height: auto;
+	margin-right: 24px;
+
+	&__in {
+		background-color: none;
+		border: 1px solid $color-third;
+		border-radius: 6px;
+		padding: 4px 8px;
+		color: $color-fourth;
+		margin-right: 8px;
+		width: 100px;
+		text-align: center;
+
+		&:hover {
+			background-color: $color-third;
+		}
+	}
+	&__up {
+		background-color: $color-second;
+		border: 1px solid $color-third;
+		border-radius: 7px;
+		padding: 4px 4px;
+		width: 100px;
+		color: $color-fourth;
+		text-decoration: none;
+		text-align: center;
+	}
+}
+
+.login-btn {
+	background-color: $color-second;
+	border: none;
+	padding: 8px 16px;
+	border-radius: 6px;
+	color: $color-fourth;
+	font-weight: 400;
+	text-transform: uppercase;
+}

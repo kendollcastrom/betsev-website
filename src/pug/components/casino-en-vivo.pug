@@ -1,0 +1,10 @@
+div(class='casino-vivo ed-grid s-grid-1 m-grid-2')
+	div(class='casino-vivo__content ed-grid s-grid-1')
+		-for(var i = 0; i < liveCasino.lenght; i++)
+		-var casino = liveCasino[i]
+			h2=casino.title
+			p=casino.info
+	div(class='casino-vivo__img')
+		img(src=casino.img, alt=casino.alt)
+include ../components/button-register
+

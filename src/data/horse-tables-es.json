@@ -1,0 +1,1572 @@
+{
+	"table_PistasPrincipales":[
+		{
+			"table": 
+			[
+				{
+					"Pistas": "Hipódromo",
+					"Zona": "Zona",
+					"Tipo": "Tipo",
+					"LimitesP": "1ro/2do/3ro Límites",
+					"LimitesG": "Combinadas Límites",
+					"Rebate": "Reembolso %",
+					"id"	: "tableOne"
+				},
+				{
+					"pista": "Aqueduct",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "$1,000",
+					"LimitesGimmicks" : "$100",
+					"Rebate": "7%"
+				},
+				{
+					"pista": "Belmont Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Churchill Downs",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Del Mar",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Delaware Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fair Grounds Pura Sangre",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Gulfstream Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Keeneland",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kentucky Downs",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Louisiana Downs Pura Sangre",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Meadowlands Harness",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Monmouth Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Oaklawn Park",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Santa Anita Park",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Saratoga",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				},
+				{
+					"pista": "Tampa Bay Downs",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" :"",
+					"Rebate": ""
+				}
+			]
+		},
+		{
+			"table": 
+			[
+				{
+					"Pistas": "Hipódromo",
+					"Zona": "Zona",
+					"Tipo": "Tipo",
+					"LimitesP": "1ro/2do/3ro Límites",
+					"LimitesG": "Combinadas Límites",
+					"Rebate": "Reembolso %",
+					"id"	: "tableTwo"
+				},
+				{
+					"pista": "Dover Downs",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "$250",
+					"LimitesGimmicks" : "$50",
+					"Rebate": "4%"
+				},
+				{
+					"pista": "Ellis Park",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Freehold Raceway",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Golden Gate Fields",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Harrington Raceway",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Laurel Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Lone Star Park",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Los Alamitos Race Course",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Meadowlands",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Meadows Harness",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Monticello Raceway",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Mountaineer Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Parx Racing",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Penn National",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Pimlico",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Pocono Downs",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sam Houston Race Park",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Saratoga Harness",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Suffolk Downs",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Turfway Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Woodbine",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Woodbine Mohawk Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Yonkers Raceway Harness",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				}
+	
+			]
+		},
+		{
+			"table":
+			[
+				{
+					"Pistas": "Hipódromo",
+					"Zona": "Zona",
+					"Tipo": "Tipo",
+					"LimitesP": "1ro/2do/3ro Límites",
+					"LimitesG": "Combinadas Límites",
+					"Rebate": "Reembolso %",
+					"id"	: "tableThree"
+				},
+				{
+					"pista": "Arapahoe Park",
+					"zonaHoraria": "MST",
+					"tipo" : "Pura Sangre ",
+					"LimitesPosicion" : "$100",
+					"LimitesGimmicks" : "$20",
+					"Rebate": "1%"
+				},
+				{
+					"pista": "Australia A",
+					"zonaHoraria": "-",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Australia B",
+					"zonaHoraria": "-",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Belterra",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre ",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Cal Expo",
+					"zonaHoraria": "PST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Canterbury Park",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Charles Town",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Delta Downs",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Emerald Downs",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Evangeline Downs",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fair Grounds QTR",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fairmount Park",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Finger Lakes",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fort Erie",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hastings Park",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hawthorne",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hawthorne Harness",
+					"zonaHoraria": "CST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hialeah Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hoosier Park Harness",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Indiana Downs",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Los Alamitos",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Louisiana Downs QTR",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Mahoning Valley",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Northfield Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Pompano Park",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Portland Meadows",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Prairie Meadows",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Presque Isle Downs",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Remington Park",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Retama Park",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ruidoso Downs",
+					"zonaHoraria": "MST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sacramento",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Santa Rosa",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Stockton",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sunland Park",
+					"zonaHoraria": "MST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Thistledown",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Timonium",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Turf Paradise",
+					"zonaHoraria": "PST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Will Rogers Downs",
+					"zonaHoraria": "CST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Woodbine Harness",
+					"zonaHoraria": "EST",
+					"tipo" : "Trotones",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Zia Park",
+					"zonaHoraria": "MST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				}
+				
+			]
+		},
+		{
+			"table":
+			[
+				{
+					"Pistas": "Galgos",
+					"Zona": "Time Zone",
+					"Tipo": "",
+					"LimitesP": "WIN/PLACE/SHOW/LIMITS",
+					"LimitesG": "GIMMICKS LIMITS",
+					"Rebate": "REBATE %",
+					"id"	: "tableFour"
+				},
+				{
+					"pista": "Derby Lane Evening",
+					"zonaHoraria": "EST",
+					"tipo" : "",
+					"LimitesPosicion" : "$100",
+					"LimitesGimmicks" : "$20",
+					"Rebate": "1%"
+				},
+				{
+					"pista": "Derby Lane Matinee",
+					"zonaHoraria": "EST",
+					"tipo" : "",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Jacksonville Park Evening",
+					"zonaHoraria": "EST",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Jacksonville Park Matinee",
+					"zonaHoraria": "EST",
+					"tipo" : "",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Palm Beach Evening",
+					"zonaHoraria": "EST",
+					"tipo" : "",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Palm Beach Matinee",
+					"zonaHoraria": "EST",
+					"tipo" : "",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Southland Evening",
+					"zonaHoraria": "CST",
+					"tipo" : "",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Southland Matinee",
+					"zonaHoraria": "CST",
+					"tipo" : "",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wheeling Downs Evening",
+					"zonaHoraria": "EST",
+					"tipo" : "",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wheeling Downs Matinee",
+					"zonaHoraria": "EST",
+					"tipo" : "",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				}
+			]
+		},
+		{
+			"table":
+			[
+				{
+					"Pistas": "Internacional",
+					"Pais": "Country",
+					"Tipo": "Type",
+					"LimitesP": "WIN/PLACE/SHOW LIMITS",
+					"LimitesG": "GIMMICKS LIMITS",
+					"Rebate": "REBATE %",
+					"id"	: "tableFive"
+				},
+				{
+					"pista": "Ascot Racecourse",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "$250",
+					"LimitesGimmicks" : "$50",
+					"Rebate": "4%"
+				},
+				{
+					"pista": "Ascot Racecourse",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ayr",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ballinrobe",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Bangor-on-Dee",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Bath",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Bellewstown",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Beverley",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Brighton",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Carlisle",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Cartmel",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Catterick",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Chelmsford City",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Cheltenham",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Chepstow",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Clonmel",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Cork Racecourse",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Curragh",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Deauville-La Touques",
+					"pais": "France",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Doncaster Racecourse",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Down Royal",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Downpatrick",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Dundalk",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Durbanville",
+					"pais": "South Africa",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Epsom Downs",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Exeter",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fairview",
+					"pais": "South Africa",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fairyhouse Racecourse",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fakenham",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ffos Las",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Flamingo",
+					"pais": "South Africa",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fontwell",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Galway",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Goodwood",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Gowran",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Greyville",
+					"pais": "South Africa",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hamilton",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Happy Valley",
+					"pais": "Hong Kong",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Haydock",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hexham",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Huntingdon",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kelso",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kempton",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kenilworth",
+					"pais": "South Africa",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kilbeggan",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Killarney",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Laytown",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Leicester",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Leopardstown",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Limerick",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Lingfield",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Listowel",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Longchamp",
+					"pais": "France",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ludlow",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Maisons-Laffitte Racecourse",
+					"pais": "France",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Market Rasen",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Musselburgh",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Naas Racecourse",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Navan",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Newbury Racecourse",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Newcastle",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Newmarket",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Newton Abbot",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Nottingham",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Perth",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Plumpton",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Pontefract",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Punchestown",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Redcar",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ripon",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Roscommon",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Salisbury",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sandown",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Scottsville",
+					"pais": "South Africa",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sedgefield",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sha Tin",
+					"pais": "Hong Kong",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sligo",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Southwell",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Stratford",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Taunton",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Thirsk",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Thurles",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Tipperary",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Towcester",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Tramore",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Turffontein",
+					"pais": "South Africa",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Uttoxeter",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Vaal",
+					"pais": "South Africa",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Warwick",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wetherby",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wexford",
+					"pais": "Ireland",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wincanton",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Windsor",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wolverhampton",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Worcester",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Yarmouth",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				},
+				{
+					"pista": "York",
+					"pais": "UK",
+					"tipo" : "Pura Sangre",
+					"LimitesPosicion" : "",
+					"LimitesGimmicks" : "",
+					"Rebate": ""
+				}
+			]
+		}
+	]
+}

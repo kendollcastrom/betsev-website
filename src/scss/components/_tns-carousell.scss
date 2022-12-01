@@ -1,0 +1,19 @@
+.tns-carousell {
+	&__content {
+		height: auto;
+		background: transparent;
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	img {
+		width: 100%;
+	}
+}
+
+.tns-carousell__container {
+	padding: 0 8px;
+}
+

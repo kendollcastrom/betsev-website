@@ -1,0 +1,27 @@
+.help {
+	margin-top: 32px;
+	height: auto;
+
+	&__content {
+		margin-top: 32px;
+		margin-bottom: 56px;
+	}
+
+	h1 {
+		color: $color-fourth;
+		margin-bottom: 24px;
+	}
+
+	&__content-card {
+		color: $color-sixth;
+		text-align: center;
+		padding: 48px 32px;
+		border-radius: 8px;
+		box-shadow: $principal-box-shadow;
+
+		a {
+			color: $color-fourth;
+			text-decoration: underline;
+		}
+	}
+}

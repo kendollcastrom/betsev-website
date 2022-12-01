@@ -1,0 +1,18 @@
+.info-politics {
+	max-width: 1200px;
+	padding: 32px;
+	margin: 32px 0 40px 0;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 8px;
+	box-shadow: $principal-box-shadow;
+
+	&__content {
+		color: $color-fourth;
+		max-width: 900px;
+	}
+
+	&__anchor {
+		color: $color-second;
+	}
+}

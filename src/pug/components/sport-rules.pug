@@ -1,0 +1,98 @@
+section(class='sport-rules info-politics ed-grid l-grid-1')
+	div(class='info-politics__content')
+		//- include:markdown-it(html) ../md/responsible-games.md
+		mixin bets(td1, td2)
+			tr(class="sport-rules__table--tr") 
+				td(class="sport-rules__table--td1")= td1
+				td(class="sport-rules__table--td2")= td2
+
+		div(class='sport-rules-container')
+			h1(class='s-cols-3') Reglas de Deportes
+			h2(class='') La siguiente tabla le indica cuando un juego se considera oficial para efectos de apuestas:
+			table(class='sport-rules__table')
+				colgroup(class='sport-rules--colgroup')
+					col(class='sport-rules__table--col1')
+					col(class='sport-rules__table--col2')
+				tbody(class="sport-rules__table--tbody")
+					-for(var i = 0; i < bets.length ; i++)
+						-var bet = bets[i]
+						+bets(bet.td1, bet.td2)
+
+
+		div(class='accordion-container ed-grid')
+			//- include:markdown-it(html) ../md/sport-rules.md
+			div(class='accordion v1')
+				div(class="a-container")
+					p(class="a-btn") Futbol Americano <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/futbol-americano.md
+						div(class='accordion v1')
+				div(class="a-container")
+					p(class="a-btn") Basketball <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/basketball.md
+						div(class='accordion v1')
+				div(class="a-container")
+					p(class="a-btn") Baseball <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/baseball.md
+				div(class="a-container")
+					p(class="a-btn") Hockey <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/hockey.md
+				div(class="a-container")
+					p(class="a-btn") Fútbol Soccer <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/soccer.md
+				div(class="a-container")
+					p(class="a-btn") Golf <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/golf.md
+				div(class="a-container")
+					p(class="a-btn") Boxeo - Mixed Martial Arts (MMA) - UFC <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/boxeo.md
+				div(class="a-container")
+					p(class="a-btn") Tennis <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/tennis.md
+				div(class="a-container")
+					p(class="a-btn") Autoracing <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/autoracing.md
+				div(class="a-container")
+					p(class="a-btn") Reglas Generales de Props <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/prop-rules.md
+				div(class="a-container")
+					p(class="a-btn") Apuestas Live In-Game Lines <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/live-games.md
+				div(class="a-container")
+					p(class="a-btn") Tarjetas Parlay <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/parlay-cards.md
+				div(class="a-container")
+					p(class="a-btn") Rugby <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/rugby.md
+				div(class="a-container")
+					p(class="a-btn") Cricket <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/cricket.md
+				div(class="a-container")
+					p(class="a-btn") Esports <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/esports.md
+				div(class="a-container")
+					p(class="a-btn") Volleyball <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/volleyball.md
+				div(class="a-container")
+					p(class="a-btn") Water Polo <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/water-polo.md
+				div(class="a-container")
+					p(class="a-btn") Handball <span></span>
+					div(class='a-panel')
+						include:markdown-it(html) ../md/sports/handball.md

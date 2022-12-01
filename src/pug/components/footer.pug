@@ -1,0 +1,19 @@
+div(class='ed-container footer')
+	div(class='ed-grid footer-nav')
+		ul(class='ed-grid s-grid-1 m-grid-2 l-grid-3 row-gap footer-nav__item')
+			-for(var i = 0; i < footerNav.length; i++)
+				-footer = footerNav[i]
+				li(class='footer-nav__link')
+					a(href=footer.link)=footer.item
+	div(class='footer-social')
+		h3 Social Media
+		ul(class='footer-social__item')
+			-for(var i = 0; i < socialMedia.length; i++)
+				-social = socialMedia[i]
+				li(class='footer-social__link')
+					a(href=social.link target='_blank')
+						img(src=social.item)
+	div(class='footer-copy')
+		p Powered by JazzGSak
+			a(href="https://jazzgs.com/", target="_blank")
+				img(src="assets/img/powered-jgs.png", alt="")

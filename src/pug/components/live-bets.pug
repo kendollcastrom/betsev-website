@@ -1,0 +1,12 @@
+div(class='live-bets ed-grid s-grid-1 m-grid-2')
+	div(class='live-bets__content ed-grid s-grid-1')
+		-for(var i = 0; i < liveBets.lenght; i++)
+		-var liveBet = liveBets[i]
+			h2=liveBet.title
+			p=liveBet.info
+		include ../components/button-register
+	div(class='live-bets__img')
+		picture()
+			source(media="(min-width: 640px)", srcset=imgDesktop)
+			img(src=liveBet.imgMobile, alt=liveBet.alt)
+

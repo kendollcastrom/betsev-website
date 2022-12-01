@@ -1,0 +1,118 @@
+
+
+/* Modal CSS */
+
+/*Efecto*/
+.modalmask {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    z-index: 99999;
+    opacity:0;
+	color: $color-fourth;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+}
+.modalmask:target {
+    opacity:1;
+    pointer-events: auto;
+}
+
+/*Formato de la ventana*/
+.modalbox{
+    width: 100%;
+    position: relative;
+    padding: 5px 20px 13px 20px;
+    background: $color-first;
+    border-radius:3px;
+    -webkit-transition: all 500ms ease-in;
+    -moz-transition: all 500ms ease-in;
+    transition: all 500ms ease-in; 
+	border-radius: 8px;
+
+	@include from(m) {
+		width: 350px;
+	}
+}
+
+/*Movimientos*/
+.movedown {
+    margin: 0 auto;
+}
+.modalmask:target .movedown{       
+    margin:10% auto;
+}
+
+/*Boton de cerrar*/
+.close {
+    color: #FFFFFF;
+    position: absolute;
+    right: 8px;
+    text-align: center;
+    top: 8px;
+    text-decoration: none;
+	
+	span {
+		font-size: 30px;
+	}
+}
+
+.sign-in__container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+}
+
+.sign-in__form {
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: center;
+
+	input {
+		height: 32px;
+		border-radius: 8px;
+	}
+}
+
+.sign-in__email {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 16px;	
+}
+
+.sign-in__password {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 8px;
+}
+
+.sign-in__btn {
+	padding: 8px 16px;
+	background-color: $color-second;
+	color: $color-fourth;
+	font-weight: 400;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+
+	&:hover {
+		background-color: $color-fiveth;
+	}
+}
+
+.sign-in__form-register {
+	margin-bottom: 0;
+
+	a {
+		text-decoration: underline;
+	}
+	
+}

@@ -1,0 +1,106 @@
+.discount {
+	margin-top: 32px;
+	margin-bottom: 40px;
+
+	h1, h2 {
+		color: $color-fourth;
+	}
+}
+
+.discount-content {
+	width: 100%;
+	row-gap: 2rem;
+	margin-bottom: 48px;
+}
+
+.discount-content__card {
+	border-radius: 6px;
+	color: $color-fourth;
+	height: auto;
+	position: relative;
+
+	img {
+		width: 100%;
+		border-radius: 6px;
+	}
+}
+
+.discount-content__card-text {
+	background-color: $bg-dark-color;
+	border-radius: 6px;
+	height: 100%;
+	padding: 16px 16px 64px 16px;
+	position: absolute;
+	top: 0;
+	width: 100%;
+
+	p {
+		margin-bottom: 8px;
+		color: $color-seventh;
+	}
+
+	h2 {
+		height: 70%;
+		padding: 0;
+	}
+
+	a {
+		background: $bg-linear-one;
+		border-radius: 6px;
+		display: inline-block;
+		font-weight: 600;
+		padding: 8px 16px;
+		text-transform: uppercase;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}
+
+/* Rebate */
+
+.rebate-content__card {
+	border-radius: 6px;
+	color: $color-fourth;
+	height: auto;
+	position: relative;
+
+	img {
+		width: 100%;
+		border-radius: 6px;
+	}
+}
+
+.rebate-content__card-text {
+	background-color: $bg-dark-color;
+	border-radius: 6px;
+	height: 100%;
+	padding: 16px 16px 64px 16px;
+	position: absolute;
+	top: 0;
+	width: 100%;
+
+	p {
+		margin: 0;
+		color: $color-seventh;
+	}
+
+	h2 {
+		height: 70%;
+		padding: 0;
+	}
+
+	a {
+		background: $bg-linear-one;
+		border-radius: 6px;
+		display: inline-block;
+		font-weight: 600;
+		padding: 8px 16px;
+		text-transform: uppercase;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}

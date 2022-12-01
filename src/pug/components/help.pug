@@ -1,0 +1,7 @@
+section(class='help ed-grid')
+	h1 Información
+	div(class='help__content ed-grid s-grid-1 m-grid-3')
+		-for(var i = 0; i < help.length; i++)
+			div(class="help__content-card")
+				p=help[i].info
+				a(href=`tel:${help[i].link}`)=help[i].link

@@ -1,0 +1,16 @@
+#tnsSingle-ow {
+	max-width: 100%;
+}
+
+.tns-single{
+	&__content{
+		display           : flex;
+		justify-content   : center;
+		flex-direction    : column;
+		align-items       : center;
+		span{color        : white;}
+	}
+	&__img{
+		width: 100%;
+	}
+}

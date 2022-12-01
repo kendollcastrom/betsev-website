@@ -1,0 +1,11 @@
+div(class='horses ed-grid s-grid-1 m-grid-2')
+	div(class='horses__content ed-grid s-grid-1')
+		-for(var i = 0; i < horses.length; i++)
+			-var horse = horses[i]
+			h2=horse.title
+			p=horse.info
+	div(class='horses__img')
+		picture()
+			source(media="(min-width: 640px)", srcset=horse.imgDesktop)
+			img(src=horse.imgMobile, alt=horse.alt)
+include ../components/button-register

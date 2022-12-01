@@ -1,0 +1,26 @@
+#payment-carousell-ow {
+	max-width: 950px;
+	width: 100%;
+}
+
+.payment-carousell {
+	display: flex;
+	align-items: center;
+
+	button[data-action=start]{
+		span {
+			display: none !important; 
+		}
+	}
+}
+
+.payment-carousell__container {
+	height: auto;
+	width: 20px;
+}
+
+.payment-carousell__img {
+	width: 88px;
+	height: auto;
+	margin: auto;
+}

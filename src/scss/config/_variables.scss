@@ -1,0 +1,48 @@
+//layout
+:root {
+	--header-height 		: 5rem;
+	@include from(l) {
+	  --header-height 	: 6rem;
+	}
+	//native color vars
+	--color-first      	: #111111;
+	--color-second		: #0D16CB;
+	--color-third		: #212020;
+	--color-fourth		: 	#fff;
+	--color-fiveth		: #000785;
+	--color-sixth		: rgb(151, 151, 151);
+	--color-seventh		: rgb(213, 213, 213);
+	--bg-linear-one		: linear-gradient(0.25turn, #0033fd, #2576f9);
+	--bg-dark-color		: rgba(30, 30, 30, 0.644);
+
+	//native box Shadow
+	--principal-box-shadow	: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  }
+  // Sass Color Vars
+  $color-first 			: var(--color-first);
+  $color-second			: var(--color-second);
+  $color-third			: var(--color-third);
+  $color-fourth			: var(--color-fourth);
+  $color-fiveth			: var(--color-fiveth);
+  $color-seventh		: var(--color-seventh);
+  $color-sixth			: var(--color-sixth);
+  $bg-linear-one		: var(--bg-linear-one);
+  $bg-dark-color		: var(--bg-dark-color);
+  $principal-box-shadow	: var(--principal-box-shadow);
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+::selection {
+	color: white;
+	background: #00CBFF;
+}
+
+strong {
+	font-weight 	: 700;
+}
+
+

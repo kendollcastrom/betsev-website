@@ -1,0 +1,19 @@
+div(class='discount ed-grid')
+	h1 Promociones
+	div(class='discount-content ed-grid m-grid-2 l-grid-3')
+		-for(var i = 0; i < discounts.length; i++)
+			div(class='discount-content__card')
+				img(src=discounts[i].img, alt=discounts[i].alt)
+				div(class="discount-content__card-text")
+					p=discounts[i].type
+					h2= discounts[i].title
+					a(href=discounts[i].link) Lo quiero
+	h2 Reembolso
+	div(class='rebate-content ed-grid m-grid-2 l-grid-3')
+		-for(var i = 0; i < rebates.length; i++)
+			div(class='rebate-content__card')
+				img(src=rebates[i].img, alt=rebates[i].alt)
+				div(class="rebate-content__card-text")
+					p=rebates[i].type
+					h2= rebates[i].title
+					a(href=rebates[i].link) Obtener

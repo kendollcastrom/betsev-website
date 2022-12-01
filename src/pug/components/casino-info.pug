@@ -1,0 +1,11 @@
+div(class='casino ed-grid s-grid-1 m-grid-2')
+	div(class='casino-content ed-grid s-grid-1')
+		-for(var i = 0; i < casinos.lenght; i++)
+		-var casino = casinos[i]
+			h2=casino.title
+			p=casino.info
+	div(class='casino-img')
+		ul(class='casino-img__item ed-grid s-grid-1 m-grid-2 l-grid-3 row-gap')
+			-for(var j = 0; j < casinos[i].games.length; j++)
+				li(class='casino-img__link'): img(src=casinos[i].games[j].item alt=casinos[i].games[j].alt)
+

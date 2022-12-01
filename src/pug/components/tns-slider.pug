@@ -1,0 +1,12 @@
+mixin slider(sliderMobile, sliderDesktop, alt)
+	div
+		div(class="tns-single__content")
+			picture(class="tns-single__img")
+				source(media="(min-width: 640px)", srcset=sliderDesktop)
+				img(src=sliderMobile alt=alt)
+
+div(class="slider-wrapper")
+	div(class='tns-single' id='tnsSingle')
+		-for(var i = 0; i < sliderImgs.length; i++ )
+			-var sliderImg = sliderImgs[i]
+			+slider(sliderImg.imgMobile, sliderImg.imgDesktop, sliderImg.alt)

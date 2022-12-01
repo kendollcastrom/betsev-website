@@ -1,0 +1,2021 @@
+{
+	"casos": [
+		{
+			"img": "assets/img/img1.jpg",
+			"title": "Image 1",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img2.jpg",
+			"title": "Image 2",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img3.jpg",
+			"title": "Image 3",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img4.jpg",
+			"title": "Image 4",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img1.jpg",
+			"title": "Image 1",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img2.jpg",
+			"title": "Image 2",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img3.jpg",
+			"title": "Image 3",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img4.jpg",
+			"title": "Image 4",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img1.jpg",
+			"title": "Image 1",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img2.jpg",
+			"title": "Image 2",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img3.jpg",
+			"title": "Image 3",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img4.jpg",
+			"title": "Image 4",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img1.jpg",
+			"title": "Image 1",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img2.jpg",
+			"title": "Image 2",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img3.jpg",
+			"title": "Image 3",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		},
+		{
+			"img": "assets/img/img4.jpg",
+			"title": "Image 4",
+			"source": "https://jazzsports.ag/",
+			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
+		}
+	],
+	"sliderImgs": [
+		{
+			"imgMobile": "assets/img/slider_bienvenida-mobile.jpg",
+			"imgDesktop": "assets/img/slider_bienvenida.jpg",
+			"alt": "hsjajjahss"
+		},
+		{
+			"imgMobile": "assets/img/slider_caballos-mobile.jpg",
+			"imgDesktop": "assets/img/slider_caballos.jpg",
+			"alt": "hsjajjahss"
+		},
+		{
+			"imgMobile": "assets/img/slider_metodo-mobile.jpg",
+			"imgDesktop": "assets/img/slider_metodo.jpg",
+			"alt": "hsjajjahss"
+		},
+		{
+			"imgMobile": "assets/img/slider_bonus-mobile.jpg",
+			"imgDesktop": "assets/img/slider_bonus.jpg",
+			"alt": "hsjajjahss"
+		}
+	],
+	"games": [
+		{
+			"title": "Deportes",
+			"img": "assets/img/deportes.png",
+			"alt": "deportes",
+			"link": "deportes.html"
+		},
+		{
+			"title": "Casino en vivo",
+			"img": "assets/img/casinovivo.png",
+			"alt": "Lorem ipsum",
+			"link": "casino-en-vivo.html"
+		},
+		{
+			"title": "Caballos",
+			"img": "assets/img/caballosMenu.png",
+			"alt": "Lorem ipsum",
+			"link": "caballos.html"
+		},
+		{
+			"title": "BlackJack",
+			"img": "assets/img/blackjack.png",
+			"alt": "Lorem ipsum",
+			"link": "casino.html"
+		},
+		{
+			"title": "Slots",
+			"img": "assets/img/slots.png",
+			"alt": "Lorem ipsum",
+			"link": "casino.html"
+		},
+		{
+			"title": "Juegos de mesa",
+			"img": "assets/img/juegomesa.png",
+			"alt": "Lorem ipsum",
+			"link": "casino.html"
+		}
+	],
+	"promotions": [
+		{
+			"url": "#",
+			"img": "assets/img/welcome-bonus.png",
+			"alt": "100% bono de bienvenida jugada gratis"
+		},
+		{
+			"url": "#",
+			"img": "assets/img/jugada-gratis.png",
+			"alt": "9% en bonos de caballos"
+		},
+		{
+			"url": "#",
+			"img": "assets/img/bonos-recarga.png",
+			"alt": "métodos de pago"
+		},
+		{
+			"url": "#",
+			"img": "assets/img/reembolso-diario.png",
+			"alt": "200% bonos de bienvenida"
+		}
+	],
+	"methods": [
+		{
+			"img": "assets/img/bitcoin-cash-icon.png",
+			"alt": "bitcoin cash"
+		},
+		{
+			"img": "assets/img/visa-icon.png",
+			"alt": "bitcoin cash"
+		},
+		{
+			"img": "assets/img/zelle-icon.png",
+			"alt": "bitcoin cash"
+		},
+		{
+			"img": "assets/img/mastercard-icon.png",
+			"alt": "bitcoin cash"
+		},
+		{
+			"img": "assets/img/ethereum-icon.png",
+			"alt": "bitcoin cash"
+		},
+		{
+			"img": "assets/img/litecoin-icon.png",
+			"alt": "bitcoin cash"
+		},
+		{
+			"img": "assets/img/money-gram-icon.png",
+			"alt": "bitcoin cash"
+		},
+		{
+			"img": "assets/img/p2p-icon.png",
+			"alt": "bitcoin cash"
+		},
+		{
+			"img": "assets/img/bitcoin-icon.png",
+			"alt": "bitcoin cash"
+		},
+		{
+			"img": "assets/img/usdt-icon.png",
+			"alt": "bitcoin cash"
+		}
+	],
+	"footerNav": [
+		{
+			"item": "acerca de nosotros",
+			"link": "acerca-nosotros.html"
+		},
+		{
+			"item": "política de privacidad",
+			"link": "politicas-privacidad.html"
+		},
+		{
+			"item": "Términos y condiciones",
+			"link": "terminos-condiciones.html"
+		},
+		{
+			"item": "juegos responsables",
+			"link": "juegos-responsables.html"
+		},
+		{
+			"item": "reglas de deportes",
+			"link": "reglas-deportes.html"
+		},
+		{
+			"item": "Reglas de la casa",
+			"link": "reglas-de-la-casa.html"
+		},
+		{
+			"item": "Reglas de casino",
+			"link": "reglas-casino.html"
+		},
+		{
+			"item": "Calculadora Parlay",
+			"link": "calcuradora-parlay.html"
+		},
+		{
+			"item": "Calculadora Teaser",
+			"link": "calculadora-teaser.html"
+		},
+		{
+			"item": "Ayuda",
+			"link": "ayuda.html"
+		}
+	],
+	"socialMedia": [
+		{
+			"item": "assets/img/youtube-icon.svg",
+			"alt": "youtube de betsev",
+			"link": "https://www.youtube.com/channel/UCnYdnZIFS6zjQeTklPLe1Wg"
+		},
+		{
+			"item": "assets/img/instagram-icon.svg",
+			"alt": "instagram de betsev",
+			"link": "https://www.youtube.com/channel/UCnYdnZIFS6zjQeTklPLe1Wg"
+		},
+		{
+			"item": "assets/img/whatsapp-icon.svg",
+			"alt": "whatsapp de betsev",
+			"link": "https://www.youtube.com/channel/UCnYdnZIFS6zjQeTklPLe1Wg"
+		}
+	],
+	"casinos": [
+		{
+			"title": "CASINO EN LÍNEA",
+			"info": "¿Quieres disfrutar de los mundialmente famosos casinos de Las Vegas en la comodidad de tu hogar? En ese caso, no necesitas ir más lejos, has venido al lugar correcto. Porque el casino en línea Betsev tiene todo el entretenimiento, la diversión y la emoción que has llegado a esperar de los mejores lugares de juego en el mundo. La calidad es un asunto muy serio para nosotros en Betsev, así que estamos orgullosos de mencionar que nuestro software de casino es de clase mundial, de lo mejor disponible en el mercado. Porque nos preocupamos por ti, nos esforzamos todos los días y continuamos invirtiendo fuertemente para garantizar y entregarte a la mejor y más confiable experiencia. Entonces, ¿qué es lo tuyo? ¿Slots, Blackjack, Juegos de mesa, Póker? Lo tenemos todo y más! Regístrate con nosotros en tan sólo unos sencillos y rápidos pasos y comienza a ganar! Ah, y no te olvides de recolectar tus ganancias. Si tu aún no eres parte del universo de los juegos en Betsev, no te preocupes. Todo lo que necesitas hacer es marcar a nuestro número de atención al cliente y con gusto te guiarán a través del simple proceso de registro, por lo que puedes comenzar a vivir la experiencia Betsev casino en línea ahora mismo.",
+			"games": [
+				{
+					"item": "assets/img/casino-online-01.png",
+					"alt": "caribbean stud poker"
+				},
+				{
+					"item": "assets/img/casino-online-03.png",
+					"alt": "ruleta"
+				},
+				{
+					"item": "assets/img/casino-online-04.png",
+					"alt": "poker"
+				},
+				{
+					"item": "assets/img/casino-online-05.png",
+					"alt": "slots"
+				},
+				{
+					"item": "assets/img/casino-online-06.png",
+					"alt": "black jack"
+				},
+				{
+					"item": "assets/img/casino-online-07.png",
+					"alt": "craps"
+				}
+			]
+		}
+	],
+	"liveCasino": [
+		{
+			"title": "Casino en Vivo",
+			"info": "Tal vez tu eres el tipo de persona que disfruta de una experiencia de juego más interactiva y en vivo y, si este es tu caso, Betsev tiene lo que estas buscando. Nuestro Casino en Vivo trae tus juegos favoritos directamente a la pantalla de tu computadora, junto con la compañía de nuestras muy profesionales y hermosas dealers. La oferta del Casino en Vivo de Betsev incluye Blackjack, Ruleta, Poker, y muchos otros juegos emocionantes para mantenerte entretenido durante horas, y por qué no? Tu puedes obtener un beneficio además de la diversión. Nuestro Casino en Vivo permanece abierto 24/7, los 365 días del año. No hay nada mejor que esto. Debido a la importancia que la calidad y la satisfacción que enfatizamos en Betsev, velamos porque nuestro servicio de Casino en Vivo, incluyendo todo el personal, las dealers, los inspectores y jefes de piso, estén prontos a ayudarte en cualquier forma que lo necesites, aquí mismo, ahora mismo . Nuestro software de primera clase y nuestra moderna plataforma de hardware seguramente complementarán tu experiencia.Si tu deseas tener esta opción disponible para ti, por favor ponte en contacto con el personal de atención al cliente de Betsev y te asistiremos para preparar tu cuenta en pocos minutos, y así puedas comenzar a disfrutar de la acción en vivo en nuestro Casino Betsev hoy!",
+			"img": "assets/img/casinovivo-mobile.jpg",
+			"alt": "casino en vivo"
+		}
+	],
+	"liveBets": [
+		{
+			"title": "Apuestas en Vivo",
+			"info": "¿Tu juego favorito ya ha comenzado? Sigue la acción paso a paso y apuesta a tu evento predilecto aun después de su comienzo oficial. Nuestro novedoso sistema de apuestas en vivo te permite realizar tus jugadas en tiempo real y durante el desarrollo natural del juego. No dejes que lesiones o expulsiones inesperadas afecten el resultado de tu apuesta. Toma control de tu acción y elige el mejor momento para ingresar tu jugada. ¿Qué estás esperando? Únete a la familia de Betsev y dale un giro a tu suerte.",
+			"imgMobile": "assets/img/live-bets.jpg",
+			"imgDesktop": "",
+			"alt": "casino en vivo"
+		}
+	],
+	"horses": [
+		{
+			"title": "9% Reembolso diario de caballos",
+			"info": "En BetSev realmente disfrutamos de las carreras de caballos, y sabemos que tú también. Esta es la razón por la que las apuestas en los caballos nunca han sido más fáciles antes de que nosotros llegáramos. Las opciones de apuesta que tienes a tu disposición son las directas para el ganador, el segundo y el tercer lugar, las apuestas exóticas como Exactas, Trifectas, Superfectas, y sus respectivas opciones de boxeo, doble del día y muchas otras más. BetSev ofrece una cobertura completa para todas las principales pistas de Estados Unidos, como el Acueducto, Belmont Park, Churchill Downs, Del Mar, Meadowlands , Saratoga , y también pistas de menor importancia como Beulah Park, Evangeline Downs, Penn National, Thistledown, Woodbine, etc Todo disponible en el mismo lugar. Toda la diversión y la emoción de esos pocos segundos que una carrera dura desde el momento en que la puerta se abre hasta que un ganador cruza la línea, se viven de manera distinta en BetSev. De una manera muy conveniente, los resultados de la carrera se publicarán en cuestión de minutos después de que ha terminado, por lo que es posible apostar en tu próximo evento casi de inmediato! Únete al universo de BetSev y vive la mejor experiencia de juego que has tenido. Nuestro personal de atención al cliente está listo para ayudarte a inscribirte y comenzar ahora mismo! Disfruta de la emoción de las carreras de caballos en BetSev hoy!",
+			"imgMobile": "assets/img/slider_caballos-mobile.jpg",
+			"imgDesktop": "",
+			"alt": "9% reembolso en caballos"
+		}
+	],
+	"discounts": [
+		{
+			"type": "Bono de bienvenida",
+			"title": "200% bono de bienvenida de casino",
+			"link": "bono-casino.html",
+			"img": "assets/img/background-discounts.jpg",
+			"alt": "200% bono de bienvenida"
+		},
+		{
+			"type": "Bono de bienvenida",
+			"title": "100% jugada gratis",
+			"link": "bono-bienvenida.html",
+			"img": "assets/img/background-discounts.jpg",
+			"alt": "200% bono de bienvenida"
+		},
+		{
+			"type": "Bono de bienvenida",
+			"title": "10% jugada gratis deporte",
+			"link": "jugada-gratis-10.html",
+			"img": "assets/img/background-discounts.jpg",
+			"alt": "200% bono de bienvenida"
+		},
+		{
+			"type": "Bono de bienvenida",
+			"title": "20% gratis de deporte",
+			"link": "jugada-gratis-20.html",
+			"img": "assets/img/background-discounts.jpg",
+			"alt": "200% bono de bienvenida"
+		},
+		{
+			"type": "Bono de bienvenida",
+			"title": "25% jugada gratis deporte",
+			"link": "jugada-gratis-25.html",
+			"img": "assets/img/background-discounts.jpg",
+			"alt": "200% bono de bienvenida"
+		},
+		{
+			"type": "Bono de bienvenida",
+			"title": "100% bono de casino",
+			"link": "bono-casino-100.html",
+			"img": "assets/img/background-discounts.jpg",
+			"alt": "200% bono de bienvenida"
+		}
+	],
+	"rebates": [
+		{
+			"type": "Bono de Reembolso",
+			"title": "Hasta 9% reembolso diario de caballos",
+			"link": "caballos.html",
+			"img": "assets/img/background-rebate.jpg",
+			"alt": "9% reembolso diario de caballos"
+		}
+	],
+	"table_PistasPrincipales": [
+		{
+			"table": [
+				{
+					"Pistas": "Pistas Principales",
+					"Zona": "Zona Horaria",
+					"Tipo": "Tipo",
+					"LimitesP": "Límites 1ro/2do/3ro",
+					"LimitesG": "Límites (GIMMICKS)",
+					"Rebate": "REBATE %",
+					"id": "tableOne"
+				},
+				{
+					"pista": "Aqueduct",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "$1,000",
+					"LimitesGimmicks": "$100",
+					"Rebate": "7%"
+				},
+				{
+					"pista": "Belmont Park",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Churchill Downs",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Del Mar",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Delaware Park",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fair Grounds Thoroughbred",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Gulfstream Park",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Keeneland",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kentucky Downs",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Louisiana Downs Thoroughbred",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Meadowlands Harness",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Monmouth Park",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Oaklawn Park",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Santa Anita Park",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Saratoga",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Tampa Bay Downs",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				}
+			]
+		},
+		{
+			"table": [
+				{
+					"Pistas": "MINOR TRACKS",
+					"Zona": "Zona Horaria",
+					"Tipo": "Tipo",
+					"LimitesP": "WIN/PLACE/SHOW/LIMITS",
+					"LimitesG": "GIMMICKS LIMITS",
+					"Rebate": "REBATE %",
+					"id": "tableTwo"
+				},
+				{
+					"pista": "Dover Downs",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "$250",
+					"LimitesGimmicks": "$50",
+					"Rebate": "4%"
+				},
+				{
+					"pista": "Ellis Park",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Freehold Raceway",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Golden Gate Fields",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Harrington Raceway",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Laurel Park",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Lone Star Park",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Los Alamitos Race Course",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Meadowlands",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Meadows Harness",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Monticello Raceway",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Mountaineer Park",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Parx Racing",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Penn National",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Pimlico",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Pocono Downs",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sam Houston Race Park",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Saratoga Harness",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Suffolk Downs",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Turfway Park",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Woodbine",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Woodbine Mohawk Park",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Yonkers Raceway Harness",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				}
+			]
+		},
+		{
+			"table": [
+				{
+					"Pistas": "OTHER TRACKS",
+					"Zona": "Zona Horaria",
+					"Tipo": "Tipo",
+					"LimitesP": "WIN/PLACE/SHOW/LIMITS",
+					"LimitesG": "GIMMICKS LIMITS",
+					"Rebate": "REBATE %",
+					"id": "tableThree"
+				},
+				{
+					"pista": "Arapahoe Park",
+					"zonaHoraria": "MST",
+					"tipo": "Thoroughbred ",
+					"LimitesPosicion": "$100",
+					"LimitesGimmicks": "$20",
+					"Rebate": "1%"
+				},
+				{
+					"pista": "Australia A",
+					"zonaHoraria": "-",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Australia B",
+					"zonaHoraria": "-",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Belterra",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred ",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Cal Expo",
+					"zonaHoraria": "PST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Canterbury Park",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Charles Town",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Delta Downs",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Emerald Downs",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Evangeline Downs",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fair Grounds QTR",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fairmount Park",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Finger Lakes",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fort Erie",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hastings Park",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hawthorne",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hawthorne Harness",
+					"zonaHoraria": "CST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hialeah Park",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hoosier Park Harness",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Indiana Downs",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Los Alamitos",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Louisiana Downs QTR",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Mahoning Valley",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Northfield Park",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Pompano Park",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Portland Meadows",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Prairie Meadows",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Presque Isle Downs",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Remington Park",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Retama Park",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ruidoso Downs",
+					"zonaHoraria": "MST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sacramento",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Santa Rosa",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Stockton",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sunland Park",
+					"zonaHoraria": "MST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Thistledown",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Timonium",
+					"zonaHoraria": "EST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Turf Paradise",
+					"zonaHoraria": "PST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Will Rogers Downs",
+					"zonaHoraria": "CST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Woodbine Harness",
+					"zonaHoraria": "EST",
+					"tipo": "Harness",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Zia Park",
+					"zonaHoraria": "MST",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				}
+			]
+		},
+		{
+			"table": [
+				{
+					"Pistas": "Galgos",
+					"Zona": "Time Zone",
+					"Tipo": "",
+					"LimitesP": "WIN/PLACE/SHOW/LIMITS",
+					"LimitesG": "GIMMICKS LIMITS",
+					"Rebate": "REBATE %",
+					"id": "tableFour"
+				},
+				{
+					"pista": "Derby Lane Evening",
+					"zonaHoraria": "EST",
+					"tipo": "",
+					"LimitesPosicion": "$100",
+					"LimitesGimmicks": "$20",
+					"Rebate": "1%"
+				},
+				{
+					"pista": "Derby Lane Matinee",
+					"zonaHoraria": "EST",
+					"tipo": "",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Jacksonville Park Evening",
+					"zonaHoraria": "EST",
+					"tipo": "",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Jacksonville Park Matinee",
+					"zonaHoraria": "EST",
+					"tipo": "",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Palm Beach Evening",
+					"zonaHoraria": "EST",
+					"tipo": "",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Palm Beach Matinee",
+					"zonaHoraria": "EST",
+					"tipo": "",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Southland Evening",
+					"zonaHoraria": "CST",
+					"tipo": "",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Southland Matinee",
+					"zonaHoraria": "CST",
+					"tipo": "",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wheeling Downs Evening",
+					"zonaHoraria": "EST",
+					"tipo": "",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wheeling Downs Matinee",
+					"zonaHoraria": "EST",
+					"tipo": "",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				}
+			]
+		},
+		{
+			"table": [
+				{
+					"Pistas": "Internacional",
+					"Zona": "Country",
+					"Tipo": "Type",
+					"LimitesP": "WIN/PLACE/SHOW LIMITS",
+					"LimitesG": "GIMMICKS LIMITS",
+					"Rebate": "REBATE %",
+					"id": "tableFive"
+				},
+				{
+					"pista": "Ascot Racecourse",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "$250",
+					"LimitesGimmicks": "$50",
+					"Rebate": "4%"
+				},
+				{
+					"pista": "Ascot Racecourse",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ayr",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ballinrobe",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Bangor-on-Dee",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Bath",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Bellewstown",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Beverley",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Brighton",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Carlisle",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Cartmel",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Catterick",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Chelmsford City",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Cheltenham",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Chepstow",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Clonmel",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Cork Racecourse",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Curragh",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Deauville-La Touques",
+					"zonaHoraria": "France",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Doncaster Racecourse",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Down Royal",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Downpatrick",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Dundalk",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Durbanville",
+					"zonaHoraria": "South Africa",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Epsom Downs",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Exeter",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fairview",
+					"zonaHoraria": "South Africa",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fairyhouse Racecourse",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fakenham",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ffos Las",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Flamingo",
+					"zonaHoraria": "South Africa",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Fontwell",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Galway",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Goodwood",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Gowran",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Greyville",
+					"zonaHoraria": "South Africa",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hamilton",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Happy Valley",
+					"zonaHoraria": "Hong Kong",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Haydock",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Hexham",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Huntingdon",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kelso",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kempton",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kenilworth",
+					"zonaHoraria": "South Africa",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Kilbeggan",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Killarney",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Laytown",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Leicester",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Leopardstown",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Limerick",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Lingfield",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Listowel",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Longchamp",
+					"zonaHoraria": "France",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ludlow",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Maisons-Laffitte Racecourse",
+					"zonaHoraria": "France",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Market Rasen",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Musselburgh",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Naas Racecourse",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Navan",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Newbury Racecourse",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Newcastle",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Newmarket",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Newton Abbot",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Nottingham",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Perth",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Plumpton",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Pontefract",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Punchestown",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Redcar",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Ripon",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Roscommon",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Salisbury",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sandown",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Scottsville",
+					"zonaHoraria": "South Africa",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sedgefield",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sha Tin",
+					"zonaHoraria": "Hong Kong",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Sligo",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Southwell",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Stratford",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Taunton",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Thirsk",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Thurles",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Tipperary",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Towcester",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Tramore",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Turffontein",
+					"zonaHoraria": "South Africa",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Uttoxeter",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Vaal",
+					"zonaHoraria": "South Africa",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Warwick",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wetherby",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wexford",
+					"zonaHoraria": "Ireland",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wincanton",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Windsor",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Wolverhampton",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Worcester",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "Yarmouth",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				},
+				{
+					"pista": "York",
+					"zonaHoraria": "UK",
+					"tipo": "Thoroughbred",
+					"LimitesPosicion": "",
+					"LimitesGimmicks": "",
+					"Rebate": ""
+				}
+			]
+		}
+	],
+	"bets": [
+		{
+			"td1" : "Pro Football",
+			"td2" : "55 minutos de juego"
+		},
+		{
+			"td1" : "College Football",
+			"td2" : "55 minutos de juego"
+		},
+		{
+			"td1" : "Baloncesto",
+			"td2" : "Todos las competencias/ligas excepto la NBA deben jugar como minimo 35 minutos para tener acción, al menos que se especifique otra cosa."
+		},
+		{
+			"td1" : "Pro Basketball",
+			"td2" : "55 minutos de juego"
+		},
+		{
+			"td1" : "College Basketball",
+			"td2" : "55 minutos de juego"
+		},
+		{
+			"td1" : "Hockey",
+			"td2" : "55 minutos de juego"
+		},
+		{
+			"td1" : "Baseball Sides",
+			"td2" : "5 entradas (4 1/2 si el equipo de casa está ganando)"
+		},
+		{
+			"td1" : "Baseball Totals",
+			"td2" : "9 entradas (8 1/2 si el equipo de casa está ganando)"
+		},
+		{
+			"td1" : "Run Lines",
+			"td2" : "9 entradas (8 1/2 si el equipo de casa está ganando)"
+		},
+		{
+			"td1" : "Tennis",
+			"td2" : "Un servicio"
+		},
+		{
+			"td1" : "Soccer",
+			"td2" : "Si un partido es suspendido antes de completarse el tiempo del juego, y no se completa el mismo día, las apuestas sobre el resultado del partido se considerarán nulas y todas las apuestas seran devueltas. Incluye Goal Lines, Money lines and Totals."
+		}
+	]
+	,
+	"help": [
+		{
+			"info" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+			"type" : "tel",
+			"link" : "+584127058504"
+		},
+		{
+			"info" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+			"type" : "email",
+			"link" : "info.betsev@gmail.com"
+		},
+		{
+			"info" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+			"type" : "email",
+			"link" : "betsev8@gmail.com"
+		}
+	]
+}

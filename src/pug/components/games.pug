@@ -1,0 +1,14 @@
+mixin games(gamesImg, gamesAlt, gamesTitle, gamesLink)
+	a(class="games-card" href=gamesLink)
+		div(class="games-card__img")
+			img(src=gamesImg, alt=gamesAlt)
+		div(class='games-card__title')
+			h3= gamesTitle
+			span(class="material-symbols-rounded") arrow_forward
+
+div(class="ed-grid games-wrapper")
+	h1(class="games-wrapper__title") 2000+ Juegos en un solo lugar
+	div(class="games-content ed-grid s-grid-1 m-grid-2 l-grid-3 lg-grid-3 row-gap l-big-section")
+		-for(var i = 0; i < games.length; i++)
+			-var gameInfo = games[i]
+			+games(gameInfo.img, gameInfo.alt, gameInfo.title, gameInfo.link)

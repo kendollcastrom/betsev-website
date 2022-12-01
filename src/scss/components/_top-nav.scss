@@ -1,0 +1,92 @@
+.top-nav{
+	background    	: $color-first;
+	position      	: fixed;
+	top           	: 0;
+	width         	: 100%;
+	left          	: 0;
+	display 		: flex;
+	justify-content : center;
+	z-index: 5;
+	&__container{
+		display 		: flex;
+		justify-content : space-between;
+		height        	: var(--header-height);
+		width: 100%;
+		max-width: 1200px;
+		padding: 0 15px;
+	}
+	&__link{
+		align-self: center;
+	}
+	&__logo{
+		height: 1.7rem;
+		width: auto;
+		display: block;
+		@include from(l){
+			height: 3.4rem;;
+		}
+	}
+	&__menu{
+		position 		: fixed;
+		padding 		: 0 10px;
+		height 			: 100vh;
+		width 			: 260px;
+		background 		: $color-first;
+		transition 		: right .5s;
+		overflow-y 		: auto;
+		top 			: var(--header-height);
+		right 			: -260px;
+		&.show-top-nav {
+			right 		: 0;
+		}
+	}
+	&__li{
+		color: $color-fourth;
+		display: flex;
+		border-bottom: 0.0025rem solid #DFE0E0;
+		padding: 18px 0;
+		margin: 0;
+		margin-left: 1em;
+		list-style-type: none;
+		text-decoration: none;
+	}
+	&__anchor{
+		
+		@include fromTo(s,l){
+			display: block;
+			
+		}
+
+		@include from (l) {
+			color: $color-fourth;
+		}
+	}
+
+	&__mb-iconMenu {
+		position: relative;
+		align-self: center;
+		top: 3px;
+		padding: 0;
+		span{
+			&.hamburger-inner{
+				background: $color-fourth;
+				&::after{}
+				&::before{}
+				&::after, &::before{
+					background: $color-fourth;
+				}
+			}
+		}
+		&:focus {
+			outline: 0 !important;
+			-moz-outline-style: none !important;
+			outline: thin dotted;
+			outline: 5px auto -webkit-focus-ring-color;
+			outline-offset: -2px;
+		}
+	}
+}
+
+.top-nav-control {
+	display: flex;
+}

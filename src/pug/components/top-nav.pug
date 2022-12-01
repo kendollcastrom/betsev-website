@@ -1,0 +1,15 @@
+- pages = ['deportes', 'casino', 'caballos', 'esports', 'casino en vivo', 'apuestas en vivo', 'promociones']
+
+nav(class='top-nav')
+	div(class='top-nav__container')
+		a(href='./', class='top-nav__link')
+			img(src='assets/img/sb-logo.png', alt='', class='top-nav__logo')
+		ul(class='top-nav__menu')
+			each page in pages
+				li(class='top-nav__li'): a(class='top-nav__anchor' href=`${page.split(' ').join('-')}.html`)= page.toUpperCase()	
+		div(class='top-nav-control')
+			div(class='login')
+				a(class="login-btn" id='login-icon' href='#modal1') Ingresar
+			button(type='button', class='top-nav__mb-iconMenu hamburger hamburger--slider-r')
+				span.hamburger-box
+					span.hamburger-inner
