@@ -2,7 +2,7 @@
 
 nav(class='top-nav')
 	div(class='top-nav__container')
-		a(href='./', class='top-nav__link')
+		a(href='./', class='top-nav__link' aria-label="Betsev")
 			img(src='assets/img/sb-logo.png', alt='', class='top-nav__logo')
 		ul(class='top-nav__menu')
 			each page in pages
@@ -10,6 +10,6 @@ nav(class='top-nav')
 		div(class='top-nav-control')
 			div(class='login')
 				a(class="login-btn" id='login-icon' href='#modal1') Ingresar
-			button(type='button', class='top-nav__mb-iconMenu hamburger hamburger--slider-r')
+			button(type='button', class='top-nav__mb-iconMenu hamburger hamburger--slider-r' aria-label="Menu")
 				span.hamburger-box
 					span.hamburger-inner
