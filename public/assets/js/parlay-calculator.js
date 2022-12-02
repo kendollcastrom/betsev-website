@@ -2,7 +2,7 @@ var n_of_wagers = 7;
 var lines  = new Array("", "", "", "", "", "", "", "", "", "", "");
 var values = new Array(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-const CalcParlay = (form) => {
+function CalcParlay(form){
 	for(i = 0; i <= n_of_wagers; i++){
 		lines[i] = parseFloat(form["Line"+i].value);
 		values[i] = parseFloat(form["Factor"+i].value);
@@ -31,7 +31,7 @@ const CalcParlay = (form) => {
 	form.Payout.value = Math.round(((Payout - Bet) * 100) / 100);
 }
 
-const clearForm = (form) => {
+function clearForm(form){
 	for (i=0;i<=n_of_wagers;i++){
 		form["Line"+i].value = '';
 		form["Factor"+i].value = '0';
@@ -40,7 +40,7 @@ const clearForm = (form) => {
 	form.Payout.value = 0;
 }
 
-const write_line = (nwager) => {
+function write_line(nwager){
 
 	document.write("<tr>\n");
 	document.write("	<td align=\"center\"><b>Wager "+(nwager + 1)+".</b>\n");
@@ -54,13 +54,3 @@ const write_line = (nwager) => {
 	document.write("</tr>\n");
 }
 
-
-const Calc = () => {
-	CalcParlay();
-	clearForm();
-	write_line();
-}
-
-export {
-	Calc
-}
