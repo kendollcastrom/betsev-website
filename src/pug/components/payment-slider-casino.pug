@@ -1,5 +1,4 @@
 div(class='payment-carousell' id='payment-carousell-casino')
 	-for(var i = 0; i < methods.length ; i++)
-		-var method = methods[i]
 			div(class='payment-carousell__container')
-				img(src=method.img class='payment-carousell__img')
+				img(class='payment-carousell__img' src=methods[i].img alt=methods[i].alt)

@@ -14,13 +14,16 @@
 	}
 }
 
-.payment-carousell__container {
-	height: auto;
-	width: 20px;
-}
+.payment-carousell {
 
-.payment-carousell__img {
-	width: 88px;
-	height: auto;
-	margin: auto;
+	&__container {
+		height: auto;
+		width: 20px;
+	}
+
+	&__img {
+		width: 88px;
+		height: auto;
+		margin: auto;
+	}
 }

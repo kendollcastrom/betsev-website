@@ -11,7 +11,6 @@ import {Calc} from './components/parlay-calculator';
 	tabs();
 	
     if (document.body.classList.contains('Inicio')) {
-        // functions here
 		tnsSingle();
 		tnsCarousell();
 		paymentSlider();

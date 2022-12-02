@@ -1,7 +1,7 @@
 div(class='tns-carousell' id='tnsCarousell')
 	-for(var i = 0; i < discounts.length ; i++)
-			div(class='tns-carousell__container')
-				a(class='discount-content__card' href=discounts[i].link)
+			div(class='tns-carousell__container' aria-hidden="true")
+				a(class='discount-content__card' href=discounts[i].link aria-hidden="true")
 					img(src=discounts[i].img, alt=discounts[i].alt)
 					div(class="discount-content__card-text")
 						p=discounts[i].type

@@ -62,57 +62,60 @@
 	}
 }
 
-.sign-in__container {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	padding: 10px;
-}
+.sign-in {
 
-.sign-in__form {
-	display: flex;
-	flex-direction: column;
-	align-content: center;
-	justify-content: center;
-
-	input {
-		height: 32px;
-		border-radius: 8px;
+	&__container {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		padding: 10px;
 	}
-}
 
-.sign-in__email {
-	display: flex;
-	flex-direction: column;
-	margin-bottom: 16px;	
-}
-
-.sign-in__password {
-	display: flex;
-	flex-direction: column;
-	margin-bottom: 8px;
-}
-
-.sign-in__btn {
-	padding: 8px 16px;
-	background-color: $color-second;
-	color: $color-fourth;
-	font-weight: 400;
-	border: none;
-	border-radius: 8px;
-	cursor: pointer;
-
-	&:hover {
-		background-color: $color-fiveth;
-	}
-}
-
-.sign-in__form-register {
-	margin-bottom: 0;
-
-	a {
-		text-decoration: underline;
-	}
+	&__form {
+		display: flex;
+		flex-direction: column;
+		align-content: center;
+		justify-content: center;
 	
+		input {
+			height: 32px;
+			border-radius: 8px;
+		}
+	}
+
+	&__email {
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 16px;	
+	}
+
+	&__password {
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 8px;
+	}
+
+	&__btn {
+		padding: 8px 16px;
+		background-color: $color-second;
+		color: $color-fourth;
+		font-weight: 400;
+		border: none;
+		border-radius: 8px;
+		cursor: pointer;
+	
+		&:hover {
+			background-color: $color-fiveth;
+		}
+	}
+
+	&__form-register {
+		margin-bottom: 0;
+	
+		a {
+			text-decoration: underline;
+		}
+		
+	}
 }

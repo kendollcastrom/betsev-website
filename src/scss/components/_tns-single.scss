@@ -1,5 +1,9 @@
 #tnsSingle-ow {
 	max-width: 100%;
+
+	button[data-action=start] {
+		display: none;
+	}
 }
 
 .tns-single{

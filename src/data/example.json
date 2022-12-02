@@ -1,102 +1,4 @@
 {
-	"casos": [
-		{
-			"img": "assets/img/img1.jpg",
-			"title": "Image 1",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img2.jpg",
-			"title": "Image 2",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img3.jpg",
-			"title": "Image 3",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img4.jpg",
-			"title": "Image 4",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img1.jpg",
-			"title": "Image 1",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img2.jpg",
-			"title": "Image 2",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img3.jpg",
-			"title": "Image 3",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img4.jpg",
-			"title": "Image 4",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img1.jpg",
-			"title": "Image 1",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img2.jpg",
-			"title": "Image 2",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img3.jpg",
-			"title": "Image 3",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img4.jpg",
-			"title": "Image 4",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img1.jpg",
-			"title": "Image 1",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img2.jpg",
-			"title": "Image 2",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img3.jpg",
-			"title": "Image 3",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		},
-		{
-			"img": "assets/img/img4.jpg",
-			"title": "Image 4",
-			"source": "https://jazzsports.ag/",
-			"live": "https://jazzsports.ag/en/sports-handicapping-fantasy-contests"
-		}
-	],
 	"sliderImgs": [
 		{
 			"imgMobile": "assets/img/slider_bienvenida-mobile.jpg",
@@ -186,39 +88,39 @@
 		},
 		{
 			"img": "assets/img/visa-icon.png",
-			"alt": "bitcoin cash"
+			"alt": "visa"
 		},
 		{
 			"img": "assets/img/zelle-icon.png",
-			"alt": "bitcoin cash"
+			"alt": "zelle"
 		},
 		{
 			"img": "assets/img/mastercard-icon.png",
-			"alt": "bitcoin cash"
+			"alt": "master card"
 		},
 		{
 			"img": "assets/img/ethereum-icon.png",
-			"alt": "bitcoin cash"
+			"alt": "ethereum"
 		},
 		{
 			"img": "assets/img/litecoin-icon.png",
-			"alt": "bitcoin cash"
+			"alt": "litecoin"
 		},
 		{
 			"img": "assets/img/money-gram-icon.png",
-			"alt": "bitcoin cash"
+			"alt": "money gram"
 		},
 		{
 			"img": "assets/img/p2p-icon.png",
-			"alt": "bitcoin cash"
+			"alt": "p2p"
 		},
 		{
 			"img": "assets/img/bitcoin-icon.png",
-			"alt": "bitcoin cash"
+			"alt": "bitcoin"
 		},
 		{
 			"img": "assets/img/usdt-icon.png",
-			"alt": "bitcoin cash"
+			"alt": "usdt"
 		}
 	],
 	"footerNav": [
@@ -272,12 +174,12 @@
 		{
 			"item": "assets/img/instagram-icon.svg",
 			"alt": "instagram de betsev",
-			"link": "https://www.youtube.com/channel/UCnYdnZIFS6zjQeTklPLe1Wg"
+			"link": "https://www.instagram.com/betsevnet/"
 		},
 		{
 			"item": "assets/img/whatsapp-icon.svg",
 			"alt": "whatsapp de betsev",
-			"link": "https://www.youtube.com/channel/UCnYdnZIFS6zjQeTklPLe1Wg"
+			"link": "https://api.whatsapp.com/send/?phone=%2B584127058504&text&type=phone_number&app_absent=0"
 		}
 	],
 	"casinos": [
@@ -1999,8 +1901,7 @@
 			"td1" : "Soccer",
 			"td2" : "Si un partido es suspendido antes de completarse el tiempo del juego, y no se completa el mismo día, las apuestas sobre el resultado del partido se considerarán nulas y todas las apuestas seran devueltas. Incluye Goal Lines, Money lines and Totals."
 		}
-	]
-	,
+	],
 	"help": [
 		{
 			"info" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.",

@@ -6,17 +6,19 @@
 	margin: 0 auto;
 }
 
-.sport-rules__table {
-	border-collapse: collapse;
-}
+.sport-rules {
+	&__table {
+		border-collapse: collapse;
+	}
 
-.sport-rules__table--td1 {
-	width: 20%;
-	padding: 5px;
-	border: 1px solid $color-fourth;
-}
+	&__table--td1 {
+		width: 20%;
+		padding: 5px;
+		border: 1px solid $color-fourth;
+	}
 
-.sport-rules__table--td2 {
-	border: 1px solid $color-fourth;
-	padding: 5px;
+	&__table--td2 {
+		border: 1px solid $color-fourth;
+		padding: 5px;
+	}
 }
