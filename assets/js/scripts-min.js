@@ -31,76 +31,6 @@ exports.default = initAcc();
 Object.defineProperty(exports, "__esModule", {
 	value: true
 });
-var n_of_wagers = 7;
-var lines = new Array("", "", "", "", "", "", "", "", "", "", "");
-var values = new Array(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
-
-var CalcParlay = function CalcParlay(form) {
-	for (i = 0; i <= n_of_wagers; i++) {
-		lines[i] = parseFloat(form["Line" + i].value);
-		values[i] = parseFloat(form["Factor" + i].value);
-	}
-	Bet = parseFloat(form.Amount.value);
-	Payout = Bet;
-	for (i = 0; i <= n_of_wagers; i++) {
-		lines[i] = parseFloat(form["Line" + i].value);
-		values[i] = parseFloat(form["Factor" + i].value);
-		if (lines[i] < 0) {
-			values[i] = (-lines[i] + 100) / -lines[i];
-		} else if (lines[i] > 0) {
-			values[i] = (lines[i] + 100) / 100;
-		} else {
-			values[i] = 0;
-		}
-		if (values[i] != 0) {
-			values[i] = Math.round(values[i] * 10000) / 10000;
-			Payout *= values[i];
-		}
-	}
-
-	for (i = 0; i <= n_of_wagers; i++) {
-		form["Factor" + i].value = values[i];
-	}
-	form.Payout.value = Math.round((Payout - Bet) * 100 / 100);
-};
-
-var clearForm = function clearForm(form) {
-	for (i = 0; i <= n_of_wagers; i++) {
-		form["Line" + i].value = '';
-		form["Factor" + i].value = '0';
-	}
-	form.Amount.value = 100;
-	form.Payout.value = 0;
-};
-
-var write_line = function write_line(nwager) {
-
-	document.write("<tr>\n");
-	document.write("	<td align=\"center\"><b>Wager " + (nwager + 1) + ".</b>\n");
-	document.write("	</td>\n");
-	document.write("	<td>\n");
-	document.write("	<input type=\"text\" size=\"7\" value=\"" + lines[nwager] + "\" name=\"Line" + nwager + "\">\n");
-	document.write("	</td>\n");
-	document.write("	<td>\n");
-	document.write("	<input type=\"text\" size=\"7\" value=\"" + values[nwager] + "\" name=\"Factor" + nwager + "\" readonly disabled>\n");
-	document.write("	</td>\n");
-	document.write("</tr>\n");
-};
-
-var Calc = function Calc() {
-	CalcParlay();
-	clearForm();
-	write_line();
-};
-
-exports.Calc = Calc;
-
-},{}],3:[function(require,module,exports){
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-	value: true
-});
 var paymentSlider = function paymentSlider() {
 	var slider = tns({
 		container: "#payment-carousell",
@@ -180,7 +110,7 @@ var paymentSliderCasino = function paymentSliderCasino() {
 exports.paymentSlider = paymentSlider;
 exports.paymentSliderCasino = paymentSliderCasino;
 
-},{}],4:[function(require,module,exports){
+},{}],3:[function(require,module,exports){
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -217,7 +147,7 @@ var tabs = function tabs() {
 
 exports.default = tabs;
 
-},{}],5:[function(require,module,exports){
+},{}],4:[function(require,module,exports){
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -257,7 +187,7 @@ var tnsCarousell = exports.tnsCarousell = function tnsCarousell() {
 	});
 };
 
-},{}],6:[function(require,module,exports){
+},{}],5:[function(require,module,exports){
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -276,7 +206,7 @@ var tnsSingle = exports.tnsSingle = function tnsSingle() {
 	});
 };
 
-},{}],7:[function(require,module,exports){
+},{}],6:[function(require,module,exports){
 'use strict';
 
 Object.defineProperty(exports, "__esModule", {
@@ -297,7 +227,7 @@ var topNav = exports.topNav = function topNav() {
 	myFunction();
 };
 
-},{}],8:[function(require,module,exports){
+},{}],7:[function(require,module,exports){
 'use strict';
 
 var _tnsSlider = require('./components/tns-slider');
@@ -314,8 +244,6 @@ var _paymentSlider = require('./components/payment-slider');
 
 var _dropdownSports = require('./components/dropdown-sports');
 
-var _parlayCalculator = require('./components/parlay-calculator');
-
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 (function () {
@@ -328,13 +256,11 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 				(0, _paymentSlider.paymentSlider)();
 		} else if (document.body.classList.contains('Casino')) {
 				(0, _paymentSlider.paymentSliderCasino)();
-		} else if (document.body.classList.contains('Calculadora-parlay')) {
-				(0, _parlayCalculator.Calc)();
 		} else if (document.body.classList.contains('Reglas de deportes')) {
 				(0, _dropdownSports.initAcc)();
 		}
 })();
 
-},{"./components/dropdown-sports":1,"./components/parlay-calculator":2,"./components/payment-slider":3,"./components/tabs":4,"./components/tns-carousell":5,"./components/tns-slider":6,"./components/topNav":7}]},{},[8]);
+},{"./components/dropdown-sports":1,"./components/payment-slider":2,"./components/tabs":3,"./components/tns-carousell":4,"./components/tns-slider":5,"./components/topNav":6}]},{},[7]);
 
 //# sourceMappingURL=scripts-min.js.map

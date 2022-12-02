@@ -91,125 +91,224 @@
           <h1>Calculadora Parlay</h1><div class="col-md-12 parlay-container">
 	<h2>Calculadora de Parlay</h2>
 	<div id="ParlayTable" class="parlay-container-table">
-		<form method="post" action="parlaycalcservice.php" id="parlaycalc" class="parlayformback">
-			<br />
-			<table cellspacing="0" cellpadding="0" border="0" id="ParlayFormBlock">
-				<tbody>
-					<tr>
-						<th align="center" class="mceVisualAid">Equipos</th>
-						<th align="center" class="mceVisualAid">Costos</th>
-						<th align="center" class="mceVisualAid">Factor</th>
-					</tr>
-					<tr>
-						<td>
-							<script type="text/javascript" src="assets/js/parlaycalc.js">
-							</script>
-						</td>
-					</tr>
-					<tr>
-						<td align="center"><b>Wager 1.</b></td>
-						<td>
-							<input type="text" size="7" value="" name="Line0" />
-						</td>
-						<td>
-							<input type="text" size="7" value="0" name="Factor0" readonly="" disabled="" />
-						</td>
-					</tr>
-					<tr>
-						<td align="center"><b>Wager 2.</b></td>
-						<td>
-							<input type="text" size="7" value="" name="Line1" />
-						</td>
-						<td>
-							<input type="text" size="7" value="0" name="Factor1" readonly="" disabled="" />
-						</td>
-					</tr>
-					<tr>
-						<td align="center"><b>Wager 3.</b></td>
-						<td>
-							<input type="text" size="7" value="" name="Line2" />
-						</td>
-						<td>
-							<input type="text" size="7" value="0" name="Factor2" readonly="" disabled="" />
-						</td>
-					</tr>
-					<tr>
-						<td align="center"><b>Wager 4.</b></td>
-						<td>
-							<input type="text" size="7" value="" name="Line3" />
-						</td>
-						<td>
-							<input type="text" size="7" value="0" name="Factor3" readonly="" disabled="" />
-						</td>
-					</tr>
-					<tr>
-						<td align="center"><b>Wager 5.</b></td>
-						<td>
-							<input type="text" size="7" value="" name="Line4" />
-						</td>
-						<td>
-							<input type="text" size="7" value="0" name="Factor4" readonly="" disabled="" />
-						</td>
-					</tr>
-					<tr>
-						<td align="center"><b>Wager 6.</b></td>
-						<td>
-							<input type="text" size="7" value="" name="Line5" />
-						</td>
-						<td>
-							<input type="text" size="7" value="0" name="Factor5" readonly="" disabled="" />
-						</td>
-					</tr>
-					<tr>
-						<td align="center"><b>Wager 7.</b></td>
-						<td>
-							<input type="text" size="7" value="" name="Line6" />
-						</td>
-						<td>
-							<input type="text" size="7" value="0" name="Factor6" readonly="" disabled="" />
-						</td>
-					</tr>
-					<tr>
-						<td align="center"><b>Wager 8.</b></td>
-						<td>
-							<input type="text" size="7" value="" name="Line7" />
-						</td>
-						<td>
-							<input type="text" size="7" value="0" name="Factor7" readonly="" disabled="" />
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			<table cellspacing="0" cellpadding="0" border="0" class="ParlayControls">
-				<tbody>
-					<tr>
-						<td>Cantidad($):</td>
-						<td>
-							<input type="text" value="100" name="Amount" size="6" maxlength="6" class="amount" />
-						</td>
-						<td>
-							<input type="button" value="Calcular" onclick="CalcParlay(this.form);" class="submit" />
-						</td>
-					</tr>
-				</tbody>
-			</table>
-			<table cellspacing="0" cellpadding="0" border="0" class="ParlayControls">
-				<tbody>
-					<tr>
-						<td>Pago:</td>
-						<td class="payout">
-							$
-							<input type="text" value="0" name="Payout" size="6" class="amount" />
-						</td>
-						<td align="right">
-							<input type="button" value="Borrar" onclick="clearForm(this.form);" class="reset" />
-						</td>
-					</tr>
-				</tbody>
-			</table>
-		</form>
+	  <form
+		method="post"
+		action="parlaycalcservice.php"
+		id="parlaycalc"
+		class="parlayformback"
+	  >
+		<br />
+		<table
+		  cellspacing="0"
+		  cellpadding="0"
+		  border="0"
+		  id="ParlayFormBlock"
+		>
+		  <tbody>
+			<tr>
+			  <th align="center" class="mceVisualAid">Equipos</th>
+			  <th align="center" class="mceVisualAid">Costos</th>
+			  <th align="center" class="mceVisualAid">Factor</th>
+			</tr>
+			<tr>
+			  <td>
+				<script type="text/javascript" src="assets/js/parlaycalc.js">
+				  <!-- // -->
+				</script>
+			  </td>
+			</tr>
+			<tr>
+			  <td align="center"><b>Wager 1.</b></td>
+			  <td>
+				<input type="text" size="7" value="" name="Line0" />
+			  </td>
+			  <td>
+				<input
+				  type="text"
+				  size="7"
+				  value="0"
+				  name="Factor0"
+				  readonly=""
+				  disabled=""
+				/>
+			  </td>
+			</tr>
+			<tr>
+			  <td align="center"><b>Wager 2.</b></td>
+			  <td>
+				<input type="text" size="7" value="" name="Line1" />
+			  </td>
+			  <td>
+				<input
+				  type="text"
+				  size="7"
+				  value="0"
+				  name="Factor1"
+				  readonly=""
+				  disabled=""
+				/>
+			  </td>
+			</tr>
+			<tr>
+			  <td align="center"><b>Wager 3.</b></td>
+			  <td>
+				<input type="text" size="7" value="" name="Line2" />
+			  </td>
+			  <td>
+				<input
+				  type="text"
+				  size="7"
+				  value="0"
+				  name="Factor2"
+				  readonly=""
+				  disabled=""
+				/>
+			  </td>
+			</tr>
+			<tr>
+			  <td align="center"><b>Wager 4.</b></td>
+			  <td>
+				<input type="text" size="7" value="" name="Line3" />
+			  </td>
+			  <td>
+				<input
+				  type="text"
+				  size="7"
+				  value="0"
+				  name="Factor3"
+				  readonly=""
+				  disabled=""
+				/>
+			  </td>
+			</tr>
+			<tr>
+			  <td align="center"><b>Wager 5.</b></td>
+			  <td>
+				<input type="text" size="7" value="" name="Line4" />
+			  </td>
+			  <td>
+				<input
+				  type="text"
+				  size="7"
+				  value="0"
+				  name="Factor4"
+				  readonly=""
+				  disabled=""
+				/>
+			  </td>
+			</tr>
+			<tr>
+			  <td align="center"><b>Wager 6.</b></td>
+			  <td>
+				<input type="text" size="7" value="" name="Line5" />
+			  </td>
+			  <td>
+				<input
+				  type="text"
+				  size="7"
+				  value="0"
+				  name="Factor5"
+				  readonly=""
+				  disabled=""
+				/>
+			  </td>
+			</tr>
+			<tr>
+			  <td align="center"><b>Wager 7.</b></td>
+			  <td>
+				<input type="text" size="7" value="" name="Line6" />
+			  </td>
+			  <td>
+				<input
+				  type="text"
+				  size="7"
+				  value="0"
+				  name="Factor6"
+				  readonly=""
+				  disabled=""
+				/>
+			  </td>
+			</tr>
+			<tr>
+			  <td align="center"><b>Wager 8.</b></td>
+			  <td>
+				<input type="text" size="7" value="" name="Line7" />
+			  </td>
+			  <td>
+				<input
+				  type="text"
+				  size="7"
+				  value="0"
+				  name="Factor7"
+				  readonly=""
+				  disabled=""
+				/>
+			  </td>
+			</tr>
+		  </tbody>
+		</table>
+		<table
+		  cellspacing="0"
+		  cellpadding="0"
+		  border="0"
+		  class="ParlayControls"
+		>
+		  <tbody>
+			<tr>
+			  <td>Cantidad($):</td>
+			  <td>
+				<input
+				  type="text"
+				  value="100"
+				  name="Amount"
+				  size="6"
+				  maxlength="6"
+				  class="amount"
+				/>
+			  </td>
+			  <td>
+				<input
+				  type="button"
+				  value="Calcular"
+				  onclick="CalcParlay(this.form);"
+				  class="submit"
+				/>
+			  </td>
+			</tr>
+		  </tbody>
+		</table>
+		<table
+		  cellspacing="0"
+		  cellpadding="0"
+		  border="0"
+		  class="ParlayControls"
+		>
+		  <tbody>
+			<tr>
+			  <td>Pago:</td>
+			  <td class="payout">
+				$
+				<input
+				  type="text"
+				  value="0"
+				  name="Payout"
+				  size="6"
+				  class="amount"
+				/>
+			  </td>
+			  <td align="right">
+				<input
+				  type="button"
+				  value="Borrar"
+				  onclick="clearForm(this.form);"
+				  class="reset"
+				/>
+			  </td>
+			</tr>
+		  </tbody>
+		</table>
+	  </form>
 	</div>
-</div>
           <p>Un parlay es una apuesta única que conecta entre sí a dos o más apuestas para un alto pago. Para ganar la apuesta de parlay, cada una de las apuestas debe ganar.</p>
 <p>Entonces, ¿por qué hacer una apuesta de parlay si se trata de una apuesta más difícil? Debido a que los pagos son más elevados. Un parlay de 2 equipos podría pagar 13 / 5, un parlay de tres equipos puede pagar 6 / 1, un parlay de cuatro equipos puede pagar 10 / 1, y así sucesivamente con los pagos a obtener volviéndose mas grandes con más equipos.</p>
 <p>La Calculadora de Parlays es una herramienta muy útil para calcular la rentabilidad de las apuestas de parlay.</p>
@@ -332,5 +431,6 @@
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
     <script src="assets/js/scripts-min.js"></script>
+    <script src="assets/js/parlay-calculator.js"></script>
   </body>
 </html>
