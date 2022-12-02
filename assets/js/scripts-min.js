@@ -323,7 +323,6 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 		(0, _tabs2.default)();
 
 		if (document.body.classList.contains('Inicio')) {
-				// functions here
 				(0, _tnsSlider.tnsSingle)();
 				(0, _tnsCarousell.tnsCarousell)();
 				(0, _paymentSlider.paymentSlider)();
