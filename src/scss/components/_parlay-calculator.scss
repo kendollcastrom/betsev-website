@@ -1,0 +1,20 @@
+.parlay-table {
+	overflow-y: scroll;
+}
+
+.parlay-table {
+	width: 100%;
+	max-width: 350px;
+
+	&__wager {
+		width: 100%;
+		
+		th, td{
+			text-align: start;
+		}
+	}
+
+	&__quantity {
+		text-align: start;
+	}
+}

@@ -90,7 +90,7 @@
         <div class="info-politics__content">
           <h1>Calculadora Parlay</h1><div class="col-md-12 parlay-container">
 	<h2>Calculadora de Parlay</h2>
-	<div id="ParlayTable" class="parlay-container-table">
+	<div id="ParlayTable" class="parlay-table">
 	  <form
 		method="post"
 		action="parlaycalcservice.php"
@@ -98,17 +98,12 @@
 		class="parlayformback"
 	  >
 		<br />
-		<table
-		  cellspacing="0"
-		  cellpadding="0"
-		  border="0"
-		  id="ParlayFormBlock"
-		>
+		<table id="ParlayFormBlock" class="parlay-table__wager">
 		  <tbody>
 			<tr>
-			  <th align="center" class="mceVisualAid">Equipos</th>
-			  <th align="center" class="mceVisualAid">Costos</th>
-			  <th align="center" class="mceVisualAid">Factor</th>
+			  <th class="mceVisualAid">Equipos</th>
+			  <th class="mceVisualAid">Costos</th>
+			  <th class="mceVisualAid">Factor</th>
 			</tr>
 			<tr>
 			  <td>
@@ -247,12 +242,7 @@
 			</tr>
 		  </tbody>
 		</table>
-		<table
-		  cellspacing="0"
-		  cellpadding="0"
-		  border="0"
-		  class="ParlayControls"
-		>
+		<table class="ParlayControls parlay-table__quantity">
 		  <tbody>
 			<tr>
 			  <td>Cantidad($):</td>
@@ -277,12 +267,7 @@
 			</tr>
 		  </tbody>
 		</table>
-		<table
-		  cellspacing="0"
-		  cellpadding="0"
-		  border="0"
-		  class="ParlayControls"
-		>
+		<table class="ParlayControls parlay-table__pay">
 		  <tbody>
 			<tr>
 			  <td>Pago:</td>
